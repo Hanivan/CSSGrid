@@ -1,0 +1,5 @@
+CSS Grid adalah Modul CSS *baru* untuk mendefinisikan sistem layout berbentuk grid dalam 2 dimensi (baris&kolom)
+ Penggunaan Property CSS Grid:
+    .container {
+        display: grid;
+    }
